@@ -1,1 +1,1 @@
-[reset the HTML defalut css]("./reset.css")
+[reset the HTML defalut css](./reset.css)
